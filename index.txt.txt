@@ -2,8 +2,9 @@
 <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
 <BODY>
    <H1> GIT </H1>
-</BODY>
+ </BODY>
 </HTML>
+
 publicar seu arquivo na branch main;
 criar uma nova branch, chamada feature1;
 na branch feature1, publicar o mesmo arquivo;
